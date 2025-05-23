@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Adam Asri
 
-<!--
-**adamasri99/adamasri99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I’m a self-learning web developer, currently building apps with **Laravel**, **PHP**, and **MySQL**.
 
-Here are some ideas to get you started:
+## 🛠️ My Tools & Tech Stack
+- Laravel • PHP • HTML • CSS • MySQL
+- VS Code • Git • GitHub • Laragon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🔧 [Client Information System](https://github.com/adamasri99/Client-Information) — Laravel CRUD app for managing individual & organization clients
+
+## 📚 Currently Learning
+- 🔸 Laravel REST APIs
+- 🔸 Authentication & Middleware
+- 🔸 Vue.js (soon)
+
+## 📫 Let's Connect
+- 📧 Email: adamasri1377481@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/adamasri](https://linkedin.com/in/adamasri)
+
+---
+
+🧑‍💻 _“Always building. Always learning.”_
